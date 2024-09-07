@@ -1,5 +1,8 @@
 # Detection-of-Driver-Cognitive-Distraction-using-GRU-model
-This project focuses on detecting cognitive distraction in drivers using EEG (electroencephalogram) data. The workflow involves several stages:
+This project focuses on detecting cognitive distraction in drivers using EEG (electroencephalogram), we collected data using Emotiv Epoc Flex device. 
+The workflow involves several stages:
+
+
 
 **Data Preprocessing:** Initial data cleaning and preprocessing were performed using EEGlab in MATLAB.
 
