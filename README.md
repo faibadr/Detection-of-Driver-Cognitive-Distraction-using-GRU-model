@@ -10,4 +10,4 @@ The workflow involves several stages:
 
 **Model Training:** A GRU (Gated Recurrent Unit) model was trained in Jupyter Notebook to classify cognitive distraction. The model achieved an accuracy of 93%.
 
-Due to privacy concerns, the EEG data used in this project cannot be shared. The project aims to enhance road safety by providing real-time feedback on driver cognitive states through advanced machine learning techniques.
+Due to privacy concerns, the EEG data used in this project cannot be shared. The project aims to enhance road safety by providing real-time feedback on driver cognitive states through advanced deep learning techniques.
